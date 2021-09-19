@@ -11,10 +11,9 @@ The developer :
 Joms is a web for the user or customer to rent a car. In addition, user also can book a specific driver if they want. 
 
 The features:
-
-1.Register and Login
-2.Update Profile
-3.Rent Car
-4.Book Driver
-5.Feedback 
-6.Point and Reward
+1. Register and Login
+2. Update Profile
+3. Rent Car
+4. Book Driver
+5. Feedback 
+6. Point and Reward
