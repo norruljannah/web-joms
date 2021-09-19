@@ -17,3 +17,5 @@ The features:
 4. Book Driver
 5. Feedback 
 6. Point and Reward
+
+![Presentation2](https://user-images.githubusercontent.com/90614273/133939327-e6136006-610e-4abe-885c-4221f376c569.png)
